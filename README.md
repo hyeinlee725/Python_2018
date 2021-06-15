@@ -1,6 +1,6 @@
 # Python
 
-### Practice Coding
 ### Languages : Python
+### Practice Coding
 ### Assignment
 
