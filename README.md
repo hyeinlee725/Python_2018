@@ -1,7 +1,7 @@
 # Python
 
 ### Languages : Python
-### Development environment : IDLE, Jupyter Notebook(Anaconda)
+### Development environment : IDLE, Jupyter Notebook
 ### Practice Coding
 ### Assignment
 
